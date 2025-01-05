@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BESLAMA
+=======
+SALAM
+>>>>>>> e24d56ff8637f4fb8afbe16ba2f38fc53b76b48e
