@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-BESLAMA
-=======
-SALAM
-<<<<<<< HEAD
->>>>>>> 51b329fc8011fcdee9b8398f5bb73953e9581b01
-=======
->>>>>>> e24d56ff8637f4fb8afbe16ba2f38fc53b76b48e
->>>>>>> d20e1d71d47c41bcaeafebb3cb88cda73406af92
+slm
+toi
+moi
+by
